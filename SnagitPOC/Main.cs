@@ -16,5 +16,20 @@ namespace SnagitPOC
         {
             InitializeComponent();
         }
+
+        private void btnCapture1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCapture2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCapture3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
