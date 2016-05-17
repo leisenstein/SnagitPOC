@@ -1,1 +1,1 @@
-# Snagit POC in C\#
+# Snagit POC in C# #
